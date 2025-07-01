@@ -1,6 +1,7 @@
 # YESpace
 
-**Description:**  
+**Description:**
+
 YESpace is a personal portfolio project focused on developing a board-style task management application. The project is currently in active development and serves as a practical showcase of modern frontend development practices.
 
 **Purpose:**  
