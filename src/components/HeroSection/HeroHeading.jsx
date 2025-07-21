@@ -2,10 +2,10 @@ import React from 'react'
 
 function HeroHeading() {
   return (
-    <div>
-       <h1>Lorem ipsum dolor sit amet.</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, neque.</p>
-        <button className="bg-blue-500 text-white px-4 py-2 rounded">Get Started</button>  
+    <div className='flex flex-col gap-10 text-center items-center'>
+      <h1 className='text-5xl font-bold text-secondaryText'>The simplest way to create forms</h1>
+      <p className='text-secondaryText w-[500px] text-xl font-light'>Say goodbye to boring forms. Meet Tally - teh free, intuitive form builder you've been looking for.</p>
+      <button className="bg-backgroundBlack text-whiteText w-80 py-4 rounded-xl font-extralight">Create Free Space</button>  
     </div>
   )
 }

@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function Navbar() {
   return (
 
-    <nav className="flex justify-between items-center px-24 py-8 border-b">
+    <nav className="flex justify-between items-center px-12 md:px-16 lg:px-24 py-8 border-b sticky top-0 bg-white">
       <div className="space-x-6">
         <Link to="/" className="text-xl font-bold text-primary font-semibold">YESpace</Link>
         <Link to="/" className="text-base hover:underline text-defaultTex hover:text-primary">About</Link>
