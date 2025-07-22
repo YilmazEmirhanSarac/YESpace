@@ -5,7 +5,7 @@ import HeroCards from './HeroCards'
 
 function HeroSection() {
   return (
-    <div className='mx-60 mt-36'>
+    <div className='mx-4 md:mx-24 lg:mx-36 xl:mx-48 2xl:mx-60 mt-36'>
         <HeroHeading />
         <HeroImage />
         <HeroCards />
