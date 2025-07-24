@@ -18,7 +18,9 @@ export default {
         backgroundGray: "#E3E3E3",
         border: "#767676",
         secondaryText: "#303030",
-        backgroundBlack: "#2C2C2C"
+        backgroundBlack: "#2C2C2C",
+        borderGray: "D9D9D9",
+        textGray: "#6A6B71"
       }
     },
   plugins: []
